@@ -5,7 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitulchy07&label=Profile%20views&color=0e75b6&style=flat" alt="mitulchy07" /> </p>
 </br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mitulchy07" alt="mitulchy07" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=mitulchy07" alt="mitulchy07" /></a> </p>
 </br>
 
 - 👨‍💻 All of my projects are available at [https://mitulchy07.github.io/Protfolio-app-using-react/](https://mitulchy07.github.io/Protfolio-app-using-react/)
