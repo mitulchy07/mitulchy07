@@ -29,6 +29,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitulchy07&show_icons=true&locale=en&layout=compact" alt="mitulchy07" /></p>
 
+</br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mitulchy07&show_icons=true&locale=en" alt="mitulchy07" /></p>
 
+</br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mitulchy07&" alt="mitulchy07" /></p>
+
+</br>
