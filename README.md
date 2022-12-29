@@ -1,28 +1,84 @@
-<h1 align="center">Hi 👋, I'm Hasan Chowdhuri</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<!-- name -->
+<h1 align="center">Hi 👋, I'm Sorwar Talukder</h1>
+<!-- banner -->
+<img src='images/Sorwar-Taluker.png'>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mitulchy07&label=Profile%20views&color=0e75b6&style=flat" alt="mitulchy07" /> </p>
+## :mailbox: Reach me out
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mitulchy07" alt="mitulchy07" /></a> </p>
+<br />
 
-- 👨‍💻 All of my projects are available at [https://mitulchy07.github.io/Protfolio-app-using-react/](https://mitulchy07.github.io/Protfolio-app-using-react/)
-
-- 📫 How to reach me **hasanchowdhuri97@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EQlyZiuYF5ejqBoFCw0jc-CDtyRQyzs_/view?usp=share_link](https://drive.google.com/file/d/1EQlyZiuYF5ejqBoFCw0jc-CDtyRQyzs_/view?usp=share_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hasan-chowdhuri-27a015209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hasan-chowdhuri-27a015209/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/hasanchowdhuri97/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hasanchowdhuri97/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucmbhfavyhult1qsiph_ufsg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucmbhfavyhult1qsiph_ufsg" height="30" width="40" /></a>
+<p align="center">
+    <!-- linkedIN -->
+    <a target="_blank" href="https://www.linkedin.com/in/sorwar-talukder/">
+    <img src='images/icons/Linkedin.png'>
+    </a>
+    <!-- facebook -->
+    <a target="_blank" href="https://www.facebook.com/sorwartalukderr">
+    <img src='images/icons/Facebook.png'>
+    </a>
+    <!-- twitter -->
+    <a target="_blank" href="https://twitter.com/sorwar_talukder">
+    <img src='images/icons/Twitter.png'>
+    </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitulchy07&show_icons=true&locale=en&layout=compact" alt="mitulchy07" /></p>
+<br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mitulchy07&show_icons=true&locale=en" alt="mitulchy07" /></p>
+<!-- skills -->
+## :computer: Technologies that I know
+<br>
+<p align="center">
+<img src="images/icons/react.png"/>
+<img src="images/icons/JavaScript.png"/>
+<img src="images/icons/express.png"/>
+<img src="images/icons/node.png"/>
+<img src="images/icons/tailwind.png"/>
+<img src="images/icons/Bootsrap.png"/>
+<img src="images/icons/css.png"/>
+<img src="images/icons/HTML.png"/>
+</p>
+<p align='center'>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sorwartalukder&show_icons=true&locale=en&layout=compact" alt="sorwartalukder" />
+</p>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mitulchy07&" alt="mitulchy07" /></p>
+
+
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sorwartalukder&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
+  <br/>
+  <img src='https://github-readme-stats.vercel.app/api?username=sorwartalukder&show_icons=true&locale=en' />
+</p>
+
+<!-- about -->
+<h1>About Me</h1>
+<p>MERN Stack Developer || Front-end web developer React.js based
+I am Experienced with React.js, JavaScript, Express.js and MongoDB
+<br />
+<br />
+I am a programmer and I am happy with this job. Because I like technology . The use of technology is increasing in the world. I want to make technology easy to reach people.
+<br />
+<br />
+I am expert with JavaScript, React.js, CSS, Bootstrap, React Bootstrap, Tailwind, DaisyUI, HTML, Express.js, Firebase, MongoDB and I used many tools (Github, Netlify, Canva, Figma, React Icons, React Router, React Toast, React Query, React Photo View, React Hook Form,JWT, Context API etc).
+<br />
+<br />
+I have worked on many of my projects. Every project is different and works Front-End, Backend and design done by me. I love productive work and try to concentrate as long as I work.
+<br />
+<br />
+I am freedom loving person. I enjoy work. The only difference between me and those who upgrade the world is skill. I will work to improve myself. I dream of giving something new to the world one day.
+<br />
+<br />
+📧 mdsorwar4039@gmail.com <br />
+⌨️ 𝘛𝘦𝘹𝘵 / 𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱: +880 1742554039 <br />
+📞 𝑪𝒂𝒍𝒍 | 𝒎𝒐𝒃𝒊𝒍𝒆: +880 1742554039 <br />
+<a href="https://sorwar-portfolio.web.app/">Developer Portfolio</a> 
+<br />
+<a href="https://drive.google.com/file/d/1_P_F6B3k6TGiXZJTBDMcrGuK4G_xPKko/view?usp=share_link">Download developer resume</a>
+</p>
+</p>
+
+<br />
