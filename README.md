@@ -1,7 +1,7 @@
 <!-- name -->
 <h1 align="center">Hi 👋, I'm Hasan Chowdhuri</h1>
 <!-- banner -->
-<img src='images//icons/github.com_mitulchy07.png'>
+<img src='images//icons/banner.png'>
 
 ## :mailbox: Reach me out
 
