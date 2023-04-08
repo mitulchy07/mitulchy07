@@ -9,15 +9,15 @@
 
 <p align="center">
     <!-- linkedIN -->
-    <a target="_blank" href="https://www.linkedin.com/in/sorwar-talukder/">
+    <a target="_blank" href="https://www.linkedin.com/in/hasan-chowdhuri-27a015209/">
     <img src='images/icons/Linkedin.png'>
     </a>
     <!-- facebook -->
-    <a target="_blank" href="https://www.facebook.com/sorwartalukderr">
+    <a target="_blank" href="https://www.facebook.com/hasanchowdhuri97">
     <img src='images/icons/Facebook.png'>
     </a>
     <!-- twitter -->
-    <a target="_blank" href="https://twitter.com/sorwar_talukder">
+    <a target="_blank" href="https://twitter.com/mitulchy07">
     <img src='images/icons/Twitter.png'>
     </a>
 </p>
