@@ -1,7 +1,7 @@
 <!-- name -->
 <h1 align="center">Hi 👋, I'm Hasan Chowdhuri</h1>
 <!-- banner -->
-<img src='images/icons/github.com_mitulchy07.png'>
+<img src='images//icons/github.com_mitulchy07.png'>
 
 ## :mailbox: Reach me out
 
@@ -75,7 +75,7 @@ I am freedom loving person. I enjoy work. The only difference between me and tho
 📧 hasanchowdhuri97@gmail.com <br />
 ⌨️ 𝘛𝘦𝘹𝘵 | 𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱: +4901788026998 <br />
 📞 𝑪𝒂𝒍𝒍 | Phone: 0033745709860 <br />
-<a href="https://hasanchowdhuri.com">Developer Portfolio</a> 
+<a href="https://www.hasanchowdhuri.com">Developer Portfolio</a> 
 <br />
 <a href="https://drive.google.com/file/d/1EQlyZiuYF5ejqBoFCw0jc-CDtyRQyzs_/view?usp=share_link">Download developer resume</a>
 </p>
