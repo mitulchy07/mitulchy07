@@ -57,7 +57,7 @@
 <!-- about -->
 <h1>About Me</h1>
 <p>
-    <strong>MERN Stack Developer | Front-End React.js Specialist</strong>
+    <strong>Software Developer</strong>
     <br /><br />
     I am an experienced web developer specializing in the **MERN stack** with expertise in **React.js, JavaScript, Express.js, and MongoDB**. Passionate about technology, I strive to make it more accessible and user-friendly.
     <br /><br />
