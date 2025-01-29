@@ -70,7 +70,7 @@
     📧 **Email:** <a href="mailto:hasanchowdhuri97@gmail.com">hasanchowdhuri97@gmail.com</a> <br />
     📱 **WhatsApp:** <a href="https://wa.me/33745709860">+33 7 45 70 98 60</a> <br />
     📞 **Phone:** <a href="tel:+33745709860">+33 7 45 70 98 60</a> <br />
-    🌐 <a href="https://www.hasanchowdhuri.com" target="_blank">Developer Portfolio</a> <br />
+    🌐 <a href="https://hasans.info" target="_blank">Developer Portfolio</a> <br />
     📄 <a href="https://drive.google.com/file/d/1EQlyZiuYF5ejqBoFCw0jc-CDtyRQyzs_/view?usp=share_link" target="_blank">Download My Resume</a>
 </p>
 
