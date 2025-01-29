@@ -56,30 +56,22 @@
 
 <!-- about -->
 <h1>About Me</h1>
-<p>MERN Stack Developer || Front-end web developer React.js based
-I am Experienced with React.js, JavaScript, Express.js and MongoDB
-<br />
-<br />
-I am a programmer and I am happy with this job. Because I like technology . The use of technology is increasing in the world. I want to make technology easy to reach people.
-<br />
-<br />
-I am expert with JavaScript, React.js, CSS, Bootstrap, React Bootstrap, Tailwind, DaisyUI, HTML, Express.js, Firebase, MongoDB and I used many tools (Github, Netlify, Canva, Figma, React Icons, React Router, React Toast, React Query, React Photo View, React Hook Form,JWT, Context API etc).
-<br />
-<br />
-I have worked on many of my projects. Every project is different and works Front-End, Backend and design done by me. I love productive work and try to concentrate as long as I work.
-<br />
-<br />
-I enjoy work. The only difference between me and those who upgrade the world is skill. I will work to improve myself. I dream of giving something new to the world one day.
-<br />
-<br />
-📧 hasanchowdhuri97@gmail.com <br />
-⌨️ 𝘛𝘦𝘹𝘵 | 𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱: 0033745709860 <br />
-📞 𝑪𝒂𝒍𝒍 | Phone: 0033745709860 <br />
-<a href="https://www.hasanchowdhuri.com">Developer Portfolio</a> 
-<br />
-<a href="https://drive.google.com/file/d/1EQlyZiuYF5ejqBoFCw0jc-CDtyRQyzs_/view?usp=share_link">Download developer resume</a>
-</p>
+<p>
+    <strong>MERN Stack Developer | Front-End React.js Specialist</strong>
+    <br /><br />
+    I am an experienced web developer specializing in the **MERN stack** with expertise in **React.js, JavaScript, Express.js, and MongoDB**. Passionate about technology, I strive to make it more accessible and user-friendly.
+    <br /><br />
+    My core skills include **JavaScript, React.js, CSS, Bootstrap, React Bootstrap, Tailwind CSS, DaisyUI, HTML, Express.js, Firebase, and MongoDB**. Additionally, I work with various tools such as **GitHub, Netlify, Canva, Figma, React Icons, React Router, React Toast, React Query, React Photo View, React Hook Form, JWT, and Context API**.
+    <br /><br />
+    Over time, I have developed numerous projects where I handled **front-end, back-end, and UI/UX design**. I am passionate about writing clean, efficient, and scalable code, ensuring high-quality solutions tailored to user needs.
+    <br /><br />
+    My goal is to continuously **enhance my skills** and contribute to technological advancements. I aspire to create **impactful and innovative solutions** that improve people's lives.
+    <br /><br />
+    📧 **Email:** <a href="mailto:hasanchowdhuri97@gmail.com">hasanchowdhuri97@gmail.com</a> <br />
+    📱 **WhatsApp:** <a href="https://wa.me/33745709860">+33 7 45 70 98 60</a> <br />
+    📞 **Phone:** <a href="tel:+33745709860">+33 7 45 70 98 60</a> <br />
+    🌐 <a href="https://www.hasanchowdhuri.com" target="_blank">Developer Portfolio</a> <br />
+    📄 <a href="https://drive.google.com/file/d/1EQlyZiuYF5ejqBoFCw0jc-CDtyRQyzs_/view?usp=share_link" target="_blank">Download My Resume</a>
 </p>
 
-<br />
 
