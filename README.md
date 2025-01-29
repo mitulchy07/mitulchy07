@@ -69,11 +69,11 @@ I am expert with JavaScript, React.js, CSS, Bootstrap, React Bootstrap, Tailwind
 I have worked on many of my projects. Every project is different and works Front-End, Backend and design done by me. I love productive work and try to concentrate as long as I work.
 <br />
 <br />
-I am freedom loving person. I enjoy work. The only difference between me and those who upgrade the world is skill. I will work to improve myself. I dream of giving something new to the world one day.
+I enjoy work. The only difference between me and those who upgrade the world is skill. I will work to improve myself. I dream of giving something new to the world one day.
 <br />
 <br />
 📧 hasanchowdhuri97@gmail.com <br />
-⌨️ 𝘛𝘦𝘹𝘵 | 𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱: +4901788026998 <br />
+⌨️ 𝘛𝘦𝘹𝘵 | 𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱: 0033745709860 <br />
 📞 𝑪𝒂𝒍𝒍 | Phone: 0033745709860 <br />
 <a href="https://www.hasanchowdhuri.com">Developer Portfolio</a> 
 <br />
